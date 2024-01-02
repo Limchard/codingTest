@@ -7,4 +7,4 @@ java:S1854"8Remove this useless assignment to local variable "temp".(ë»†ûÿÿÿÿ
 java:S1659"Declare "m" on a separate line.(ÑÍµá8êŒÉ§Ë1
 [
 java:S1659">Declare "b" and all following declarations on a separate line.(¶ÀéÙ8êŒÉ§Ë1
-F	java:S106""+Replace this use of System.out by a logger.(ÇÑ×8ùüÎ§Ë1
+G	java:S106""+Replace this use of System.out by a logger.(º¼É°8ùüÎ§Ë1
