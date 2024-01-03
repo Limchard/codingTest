@@ -1,18 +1,9 @@
 
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß—çíÿÿÿÿÿ8óç½ÈÌ1
 7
-java:S1220""Move this file to a named package.8Œ´òµË1
-n
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(ê®»±şÿÿÿÿ8Ô½úµË1
-n
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(Ó…–³şÿÿÿÿ8º°ûµË1
-n
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(¦ÇöÍøÿÿÿÿ8º°ûµË1
-i
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(Ç°Ü£8Ã¹ôµË1
-h
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(Œ›«-8±úúµË1
-h
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(…¯8²úúµË1
-n
-java:S1871"LThis branch's code block is the same as the block for the branch on line 12.(Ò¹‘òşÿÿÿÿ8»°ûµË1
-L	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8‡£ıµË1
+java:S1220""Move this file to a named package.8óç½ÈÌ1
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Ü ÂÈÌ1
+L	java:S106"+Replace this use of System.out by a logger.(±“‰¿üÿÿÿÿ8öç½ÈÌ1
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8¬âÁÈÌ1
