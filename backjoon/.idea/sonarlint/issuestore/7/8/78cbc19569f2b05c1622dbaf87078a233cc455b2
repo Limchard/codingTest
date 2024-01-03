@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8íˆ…ëÌ1
+X
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8øˆ…ëÌ1
+I
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8úˆ…ëÌ1
+G	java:S106
+"+Replace this use of System.out by a logger.(ûÄÏ8üˆ…ëÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(æÊ¼¥øÿÿÿÿ8ûˆ…ëÌ1
+D
+java:S1481"'Remove this unused "st" local variable.(ÍñÜø8ıİëÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8Éğ‰ëÌ1
+]	java:S125!"<This block of commented-out lines of code should be removed.(ƒî÷àûÿÿÿÿ8¬ä‹ëÌ1
+]	java:S125&"<This block of commented-out lines of code should be removed.( “Ñúşÿÿÿÿ8ıˆ…ëÌ1
+W	java:S125."<This block of commented-out lines of code should be removed.(¾´ø&8ıˆ…ëÌ1
