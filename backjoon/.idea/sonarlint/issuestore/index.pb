@@ -86,3 +86,7 @@ A2750.java,3/4/34fb4231a4bc4ded60bb29441d3b919b9981fdd2
 A24264.java,1/b/1bff1f255ea2efcf1db9cc087c35e9939ab5e2b5
 ;
 A11005.java,a/a/aac6cf23aebbceaa83f4c8e3f1abb757be13e25e
+;
+A24226.java,6/d/6dd2ffbf74d21ccf7e349606ad74104a483758cf
+;
+A24267.java,2/e/2e17c7fc97988e2838845ff5092c69ec6c34f3fa

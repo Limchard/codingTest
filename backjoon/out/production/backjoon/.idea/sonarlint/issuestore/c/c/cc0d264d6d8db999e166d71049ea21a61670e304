@@ -1,8 +1,10 @@
 
 7
-java:S1220""Move this file to a named package.8‘ÜˆéÌ1
+java:S1220""Move this file to a named package.8şùŒéÌ1
+V
+java:S3518"9Make sure "a" can't be zero before doing this modulation.(ÿ‡¥Ï8¶úŒéÌ1
 A
-java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8ŸÜˆéÌ1
-G	java:S106"+Replace this use of System.out by a logger.(­Úé¸8•ôˆéÌ1
-L	java:S106"+Replace this use of System.out by a logger.(öêÚÏÿÿÿÿÿ8†ªŠéÌ1
-F	java:S106"+Replace this use of System.out by a logger.(š«ñ<8†ªŠéÌ1
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8·úŒéÌ1
+G	java:S106"+Replace this use of System.out by a logger.(­Úé¸8ºúŒéÌ1
+L	java:S106"+Replace this use of System.out by a logger.(öêÚÏÿÿÿÿÿ8ºúŒéÌ1
+F	java:S106"+Replace this use of System.out by a logger.(š«ñ<8ºúŒéÌ1
