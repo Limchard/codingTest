@@ -1,8 +1,6 @@
 
 0
 java:S1220""Move this file to a named package.
-X
-java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ë¡’Í1
 W	java:S125"<This block of commented-out lines of code should be removed.(¾´ø&8ï’ ’Í1
-I
-java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8‘ë¡’Í1
+L	java:S106"+Replace this use of System.out by a logger.(ßûˆüşÿÿÿÿ8Á¤ƒ“Í1
+L	java:S106"+Replace this use of System.out by a logger.(Ç‚ş©ÿÿÿÿÿ8ºâƒ“Í1
