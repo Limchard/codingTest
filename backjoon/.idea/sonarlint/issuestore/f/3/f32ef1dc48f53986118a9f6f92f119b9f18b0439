@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8Û´òêÎ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œû¿Ø8ŠµòêÎ1
+L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8ŒµòêÎ1
+F	java:S106"+Replace this use of System.out by a logger.(šü”,8ŒµòêÎ1
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÆñóØ8ŒµòêÎ1
+L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8µòêÎ1
+L	java:S106 "+Replace this use of System.out by a logger.(½Î¢äÿÿÿÿÿ8µòêÎ1
+L	java:S106#"+Replace this use of System.out by a logger.(âêØÿÿÿÿÿ8µòêÎ1
+L	java:S106&"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8µòêÎ1
+L	java:S106("+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8µòêÎ1
+L	java:S106,"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8µòêÎ1
+G	java:S106."+Replace this use of System.out by a logger.(…æÇ¦8µòêÎ1
