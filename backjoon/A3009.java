@@ -36,6 +36,5 @@ public class A3009 {
 
         System.out.println(x+" "+y);
 
-
     }
 }

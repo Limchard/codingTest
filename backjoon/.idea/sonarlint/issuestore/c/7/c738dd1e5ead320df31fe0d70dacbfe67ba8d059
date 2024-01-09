@@ -1,0 +1,27 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸©½Ãýÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œû¿Ø
+V	java:S125"<This block of commented-out lines of code should be removed.(’• «ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(–çüìÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(©ÞÔ
+E	java:S106"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ù¾ÈÔ
+@	java:S106!"+Replace this use of System.out by a logger.(¢˜ð‡
+V	java:S125""<This block of commented-out lines of code should be removed.(°§å‡üÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(ñ†ÚÓ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ò¼­­üÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(º“’—
+E	java:S106/"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(‡éÆì
+Q	java:S1254"<This block of commented-out lines of code should be removed.(©ÞÔ
+E	java:S1066"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(áªÙã
+@	java:S106:"+Replace this use of System.out by a logger.(ÊØ¡Œ
+V	java:S125;"<This block of commented-out lines of code should be removed.(‚ë«×ùÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¦ü‹Îýÿÿÿÿ

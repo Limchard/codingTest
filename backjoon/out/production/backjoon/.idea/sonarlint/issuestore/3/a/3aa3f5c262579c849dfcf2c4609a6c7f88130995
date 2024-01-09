@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8Ù²æÎ1
+r
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8†‚²æÎ1
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ËÁü8£¢µæÎ1
+L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8¤¢µæÎ1
+E	java:S108")Either remove or fill this block of code.(å¥‡8è¬·æÎ1
+J
+java:S2201!"(The return value of "size" must be used.(ŸŒ©•üÿÿÿÿ8Œ‚²æÎ1
+[
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(ËÁü8è¬·æÎ1
+L	java:S106&"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8è¬·æÎ1
