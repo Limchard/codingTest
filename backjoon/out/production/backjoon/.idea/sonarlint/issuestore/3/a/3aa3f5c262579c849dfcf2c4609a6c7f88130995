@@ -1,15 +1,26 @@
 
 7
-java:S1220""Move this file to a named package.8Ù²æÎ1
+java:S1220""Move this file to a named package.8ÕªÎçÎ1
 r
-java:S1149
-"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8†‚²æÎ1
-[
-java:S1155">Use isEmpty() to check whether the collection is empty or not.(ËÁü8£¢µæÎ1
-L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8¤¢µæÎ1
-E	java:S108")Either remove or fill this block of code.(å¥‡8è¬·æÎ1
-J
-java:S2201!"(The return value of "size" must be used.(ŸŒ©•üÿÿÿÿ8Œ‚²æÎ1
-[
-java:S1155%">Use isEmpty() to check whether the collection is empty or not.(ËÁü8è¬·æÎ1
-L	java:S106&"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8è¬·æÎ1
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8÷İèÎ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œû¿Ø8÷İèÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(’• «ıÿÿÿÿ8ùİèÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(–çüìÿÿÿÿÿ8ùİèÎ1
+X	java:S125"<This block of commented-out lines of code should be removed.(©ŞÔ8úİèÎ1
+L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8úİèÎ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ù¾ÈÔ8úİèÎ1
+G	java:S106!"+Replace this use of System.out by a logger.(¢˜ğ‡8úİèÎ1
+]	java:S125""<This block of commented-out lines of code should be removed.(°§å‡üÿÿÿÿ8úİèÎ1
+G	java:S106&"+Replace this use of System.out by a logger.(ñ†ÚÓ8úİèÎ1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Ò¼­­üÿÿÿÿ8ûİèÎ1
+L	java:S106+"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8ûİèÎ1
+X	java:S125,"<This block of commented-out lines of code should be removed.(º“’—8ûİèÎ1
+L	java:S106/"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8ûİèÎ1
+X	java:S1250"<This block of commented-out lines of code should be removed.(‡éÆì8ûİèÎ1
+X	java:S1254"<This block of commented-out lines of code should be removed.(©ŞÔ8ûİèÎ1
+L	java:S1066"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8üİèÎ1
+X	java:S1257"<This block of commented-out lines of code should be removed.(áªÙã8üİèÎ1
+G	java:S106:"+Replace this use of System.out by a logger.(ÊØ¡Œ8üİèÎ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(‚ë«×ùÿÿÿÿ8üİèÎ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(¦ü‹Îıÿÿÿÿ8üİèÎ1
