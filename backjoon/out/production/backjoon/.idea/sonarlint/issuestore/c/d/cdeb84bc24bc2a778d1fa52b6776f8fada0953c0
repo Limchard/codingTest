@@ -1,19 +1,28 @@
 
+u	java:S135R"YReduce the total number of break and continue statements in this loop to use at most one.(–îôÉ8ßÜášÏ1
+u	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(Ñÿ¨8ßÜášÏ1
+t	java:S135{"YReduce the total number of break and continue statements in this loop to use at most one.(Š›8ßÜášÏ1
 7
-java:S1220""Move this file to a named package.8ÖÛÏ1
+java:S1220""Move this file to a named package.8àÜášÏ1
 c
-java:S2184#"FCast one of the operands of this multiplication operation to a "long".(ŸÑé®8ÖÛÏ1
-d
-java:S1854"BRemove this useless assignment to local variable "commonDivisorB".(ÊèÛ×ùÿÿÿÿ8àÛÏ1
-_
-java:S1854"BRemove this useless assignment to local variable "commonDivisorA".(£ÅèÎ8àÛÏ1
-\
-java:S1481":Remove this unused "greatestCommonDivisor" local variable.(´ĞÅğıÿÿÿÿ8âÛÏ1
-P
-java:S1481"3Remove this unused "commonDivisorA" local variable.(£ÅèÎ8ãÛÏ1
-X	java:S125"<This block of commented-out lines of code should be removed.(£ÅèÎ8ãÛÏ1
-U
-java:S1481"3Remove this unused "commonDivisorB" local variable.(ÊèÛ×ùÿÿÿÿ8ãÛÏ1
-]	java:S125"<This block of commented-out lines of code should be removed.(ÊèÛ×ùÿÿÿÿ8ãÛÏ1
-X	java:S125"<This block of commented-out lines of code should be removed.(´ÆÓ‡8ãÛÏ1
-L	java:S106+"+Replace this use of System.out by a logger.(¨ÿÖöøÿÿÿÿ8äÛÏ1
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ŸÑé®8©ë±›Ï1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Çµí‘8îë±›Ï1
+9
+java:S3626„"Remove this redundant jump.(ÉŠ©ƒ8¶¥›Ï1
+L
+java:S1197$"*Move the array designators [] to the type.(ÕÒ¿Æûÿÿÿÿ8ñë±›Ï1
+F
+java:S1197%"*Move the array designators [] to the type.(¦à½8ñë±›Ï1
+L
+java:S1197C"*Move the array designators [] to the type.(ŸéÄıÿÿÿÿ8ñë±›Ï1
+G
+java:S1197D"*Move the array designators [] to the type.(ãÌ½Š8ñë±›Ï1
+L
+java:S1197E"*Move the array designators [] to the type.(¯¿Ûúÿÿÿÿ8ñë±›Ï1
+G
+java:S1197F"*Move the array designators [] to the type.(ú«Ùó8ñë±›Ï1
+M	java:S106Œ"+Replace this use of System.out by a logger.(¬€ÀÊûÿÿÿÿ8©İášÏ1
+M	java:S106"+Replace this use of System.out by a logger.(¨ÿÖöøÿÿÿÿ8©İášÏ1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 102 to 64, Complexity from 26 to 14, Nesting Level from 3 to 2, Number of Variables from 28 to 6.(Çµí‘8òë±›Ï1
