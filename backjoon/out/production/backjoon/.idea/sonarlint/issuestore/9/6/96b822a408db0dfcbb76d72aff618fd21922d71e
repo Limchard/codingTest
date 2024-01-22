@@ -1,19 +1,5 @@
 
 7
-java:S1220""Move this file to a named package.8δμά¶Ρ1
-\
-java:S1854":Remove this useless assignment to local variable "number".(…ΓΧϋÿÿÿÿ8ημά¶Ρ1
-`
-java:S1854
-">Remove this useless assignment to local variable "stoneArray".(²ώΉΩόÿÿÿÿ8ημά¶Ρ1
-L
-java:S1197
-"*Move the array designators [] to the type.(²ώΉΩόÿÿÿÿ8θμά¶Ρ1
-Q
-java:S1481
-"/Remove this unused "stoneArray" local variable.(²ώΉΩόÿÿÿÿ8θμά¶Ρ1
-M
-java:S1481"+Remove this unused "number" local variable.(…ΓΧϋÿÿÿÿ8ιμά¶Ρ1
-K
-java:S2140")Use "java.util.Random.nextInt()" instead.(‘‰φΚψÿÿÿÿ8γεί¶Ρ1
-L	java:S106"+Replace this use of System.out by a logger.(βΰ²όÿÿÿÿ8“²ΰ¶Ρ1
+java:S1220""Move this file to a named package.8Π›ΉΡ1
+]	java:S125"<This block of commented-out lines of code should be removed.(βδΕΰÿÿÿÿÿ8Σ›ΉΡ1
+G	java:S106"+Replace this use of System.out by a logger.(ϋΔΟ8Τ›ΉΡ1
