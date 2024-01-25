@@ -2,19 +2,11 @@ import java.util.Scanner;
 
 public class A1476 {
 	public static void main(String[] args) {
-		// BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		// BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-		// int earthInput = br.read(); // 입력받을 값
-		// int sunInput = br.read(); // 입력받을 값
-		// int moonInput = br.read(); // 입력받을 값
 
 		Scanner sc = new Scanner(System.in);
 		int earthInput = sc.nextInt();
 		int sunInput = sc.nextInt();
 		int moonInput = sc.nextInt();
-
-		// System.out.println(earthInput);
 
 		int earth = 1;
 		int sun = 1;
@@ -38,11 +30,6 @@ public class A1476 {
 			}
 		}
 		System.out.println(year);
-		// bw.write(year);
-		//
-		// br.close();
-		// bw.flush();
-		// bw.close();
 
 	}
 }

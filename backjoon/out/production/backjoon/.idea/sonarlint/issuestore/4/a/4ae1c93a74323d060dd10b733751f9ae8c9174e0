@@ -1,11 +1,4 @@
 
 7
-java:S1220""Move this file to a named package.8†»¡ûÒ1
-G	java:S106
-"+Replace this use of System.out by a logger.(ûÄÏ8×»¡ûÒ1
-Q
-java:S1481"/Remove this unused "earthCount" local variable.(¾ğ¥œüÿÿÿÿ8Ø»¡ûÒ1
-J
-java:S1481"-Remove this unused "sunCount" local variable.(ê’ö²8Ø»¡ûÒ1
-P
-java:S1481".Remove this unused "moonCount" local variable.(Èğğˆûÿÿÿÿ8Ø»¡ûÒ1
+java:S1220""Move this file to a named package.8‡ØÊûÒ1
+L	java:S106 "+Replace this use of System.out by a logger.(ïÖ Ïıÿÿÿÿ8ºˆĞûÒ1
