@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8¯éàôÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(´æÙÿÿÿÿÿ8 “öôÌ1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8±éàôÌ1
+]	java:S125'"<This block of commented-out lines of code should be removed.( “Ñúşÿÿÿÿ8±éàôÌ1
+W	java:S125/"<This block of commented-out lines of code should be removed.(¾´ø&8±éàôÌ1
+L	java:S106<"+Replace this use of System.out by a logger.(º†²Âúÿÿÿÿ8óÍáôÌ1
+]	java:S125:"<This block of commented-out lines of code should be removed.(æÊ¼¥øÿÿÿÿ8ö±ğôÌ1
+F	java:S106="+Replace this use of System.out by a logger.(€Ë²:8Å»âôÌ1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8ù§öôÌ1
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8÷±ğôÌ1
