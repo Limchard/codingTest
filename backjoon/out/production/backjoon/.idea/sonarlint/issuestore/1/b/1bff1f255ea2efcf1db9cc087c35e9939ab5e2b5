@@ -1,8 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8ã¢ŸğÌ1
-W	java:S125"<This block of commented-out lines of code should be removed.(¾´ø&8æ¢ŸğÌ1
-]	java:S125"<This block of commented-out lines of code should be removed.(æÊ¼¥øÿÿÿÿ8ŒœİóÌ1
-G	java:S106"+Replace this use of System.out by a logger.(À¶±ş8Ğ¡©ğÌ1
-F	java:S106"+Replace this use of System.out by a logger.(€Ë²:8ÒØ·ğÌ1
-X	java:S125"<This block of commented-out lines of code should be removed.(¢¬¹8Ê¥·ğÌ1

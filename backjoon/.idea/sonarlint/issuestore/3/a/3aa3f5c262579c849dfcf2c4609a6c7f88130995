@@ -1,26 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8ÕªÎçÎ1
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8÷ÝžèÎ1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œû¿Ø8÷ÝžèÎ1
-]	java:S125"<This block of commented-out lines of code should be removed.(’• «ýÿÿÿÿ8ùÝžèÎ1
-]	java:S125"<This block of commented-out lines of code should be removed.(–çüìÿÿÿÿÿ8ùÝžèÎ1
-X	java:S125"<This block of commented-out lines of code should be removed.(©ÞÔ8úÝžèÎ1
-L	java:S106"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ8úÝžèÎ1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ù¾ÈÔ8úÝžèÎ1
-G	java:S106!"+Replace this use of System.out by a logger.(¢˜ð‡8úÝžèÎ1
-]	java:S125""<This block of commented-out lines of code should be removed.(°§å‡üÿÿÿÿ8úÝžèÎ1
-G	java:S106&"+Replace this use of System.out by a logger.(ñ†ÚÓ8úÝžèÎ1
-]	java:S125'"<This block of commented-out lines of code should be removed.(Ò¼­­üÿÿÿÿ8ûÝžèÎ1
-L	java:S106+"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8ûÝžèÎ1
-X	java:S125,"<This block of commented-out lines of code should be removed.(º“’—8ûÝžèÎ1
-L	java:S106/"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8ûÝžèÎ1
-X	java:S1250"<This block of commented-out lines of code should be removed.(‡éÆì8ûÝžèÎ1
-X	java:S1254"<This block of commented-out lines of code should be removed.(©ÞÔ8ûÝžèÎ1
-L	java:S1066"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ8üÝžèÎ1
-X	java:S1257"<This block of commented-out lines of code should be removed.(áªÙã8üÝžèÎ1
-G	java:S106:"+Replace this use of System.out by a logger.(ÊØ¡Œ8üÝžèÎ1
-]	java:S125;"<This block of commented-out lines of code should be removed.(‚ë«×ùÿÿÿÿ8üÝžèÎ1
-]	java:S125@"<This block of commented-out lines of code should be removed.(¦ü‹Îýÿÿÿÿ8üÝžèÎ1
