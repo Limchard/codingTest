@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8Á–ºÂÖ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ö–ºÂÖ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(™¬”Úþÿÿÿÿ8ù–ºÂÖ1
+L	java:S106%"+Replace this use of System.out by a logger.(¨˜õÕþÿÿÿÿ8ú–ºÂÖ1
