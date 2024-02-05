@@ -32,5 +32,6 @@ public class A11718 {
 			String input = sc.nextLine();
 			System.out.println(input);
 		}
+		
 	}
 }
