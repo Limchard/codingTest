@@ -13,8 +13,8 @@ public class A14215 {
 			input[i] = sc.nextInt();
 		}
 
+		// 배열 내림차순 정렬
 		Arrays.sort(input, Collections.reverseOrder());
-		System.out.println(Arrays.toString(input));
 
 		if (input[0] == input[1] + input[2]) {
 			input[0] = input[1] + input[2] - 1;
