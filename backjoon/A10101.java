@@ -20,4 +20,5 @@ public class A10101 {
 			System.out.println("Error");
 		}
 	}
+	// switch 문으로도 풀 수 있을듯
 }
