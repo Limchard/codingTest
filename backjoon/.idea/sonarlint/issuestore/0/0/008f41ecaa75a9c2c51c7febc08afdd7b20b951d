@@ -1,11 +1,11 @@
 
-0
-java:S1220""Move this file to a named package.
-W
-java:S1854"5Remove this useless assignment to local variable "m".(Ì½Ÿïøÿÿÿÿ8¹Öþ¤È1
-W
-java:S1854"5Remove this useless assignment to local variable "n".(ìÊžŽüÿÿÿÿ8¹Öþ¤È1
-H
-java:S1481"&Remove this unused "n" local variable.(ìÊžŽüÿÿÿÿ8¼Öþ¤È1
-H
-java:S1481"&Remove this unused "m" local variable.(Ì½Ÿïøÿÿÿÿ8¼Öþ¤È1
+7
+java:S1220""Move this file to a named package.8žì‡“Ø1
+]	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8¡ì‡“Ø1
+G
+java:S1197("*Move the array designators [] to the type.(Ì“¤8£ì‡“Ø1
+L
+java:S1197)"*Move the array designators [] to the type.(‡ºÂÕþÿÿÿÿ8£ì‡“Ø1
+v
+java:S3012<"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(óåÚà8£ì‡“Ø1
+L	java:S106A"+Replace this use of System.out by a logger.(Æ‘É¦úÿÿÿÿ8¤ì‡“Ø1

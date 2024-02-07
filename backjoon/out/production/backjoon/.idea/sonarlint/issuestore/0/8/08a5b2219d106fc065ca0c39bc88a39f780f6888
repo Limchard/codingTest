@@ -1,9 +1,5 @@
 
 7
 java:S1220""Move this file to a named package.8õ¿äô×1
-`
-java:S1854">Remove this useless assignment to local variable "palindrome".(œ×Õıÿÿÿÿ8Ñˆæô×1
-[
-java:S1854">Remove this useless assignment to local variable "palindrome".(ÀÀØ«8Ñˆæô×1
-L
-java:S1481"/Remove this unused "palindrome" local variable.(ÚğÖÇ8ş¿äô×1
+L	java:S106"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8æÃíô×1
+L	java:S106"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8æÃíô×1
