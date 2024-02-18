@@ -1,11 +1,12 @@
 
+Y
+java:S49736"<Strings and Boxed types should be compared using "equals()".(»™Ö8²¸Ş¸Û1
 7
-java:S1220""Move this file to a named package.8İËØ·Û1
-[
-java:S1854"9Remove this useless assignment to local variable "input".(Éã¶–úÿÿÿÿ8òúä·Û1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ç¯„²8æËØ·Û1
-L
-java:S1481"*Remove this unused "input" local variable.(Éã¶–úÿÿÿÿ8ôúä·Û1
-]	java:S125"<This block of commented-out lines of code should be removed.(”ÛïÅıÿÿÿÿ8ôúä·Û1
-]	java:S125"<This block of commented-out lines of code should be removed.(™¬”Úşÿÿÿÿ8Û™ä·Û1
-X	java:S125"<This block of commented-out lines of code should be removed.(¿¿…ƒ8éËØ·Û1
+java:S1220""Move this file to a named package.8²¸Ş¸Û1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ç¯„²8õ¸Ş¸Û1
+]	java:S125"<This block of commented-out lines of code should be removed.(™¬”Úşÿÿÿÿ8÷¸Ş¸Û1
+]	java:S125&"<This block of commented-out lines of code should be removed.(òÈòñûÿÿÿÿ8÷¸Ş¸Û1
+X	java:S125+"<This block of commented-out lines of code should be removed.(ÆŞÎä8÷¸Ş¸Û1
+L	java:S1065"+Replace this use of System.out by a logger.(û£üùÿÿÿÿ8÷¸Ş¸Û1
+G	java:S1067"+Replace this use of System.out by a logger.(Ğİç¯8ø¸Ş¸Û1
+G	java:S1069"+Replace this use of System.out by a logger.(Ñ‡Ş8ø¸Ş¸Û1

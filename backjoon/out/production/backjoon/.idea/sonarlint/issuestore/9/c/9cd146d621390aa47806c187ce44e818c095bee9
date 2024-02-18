@@ -1,8 +1,6 @@
 
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º‰»äüÿÿÿÿ
-0
-java:S1220""Move this file to a named package.
-[
-java:S1854"9Remove this useless assignment to local variable "input".(Éã¶–úÿÿÿÿ8ë‰ç·Û1
-L
-java:S1481"*Remove this unused "input" local variable.(Éã¶–úÿÿÿÿ8í‰ç·Û1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º‰»äüÿÿÿÿ8…Éû¹Û1
+7
+java:S1220""Move this file to a named package.8…Éû¹Û1
+L	java:S106"+Replace this use of System.out by a logger.(šóˆ»ùÿÿÿÿ8ÌÊü¹Û1
+G	java:S106"+Replace this use of System.out by a logger.(ºùÆÉ8ÏòÒÔÛ1
