@@ -10,14 +10,14 @@ public class A2501 {
 		Scanner sc = new Scanner(System.in);
 		int naturalNumber = sc.nextInt();
 		int orderNumber = sc.nextInt();
-		int divisor[] = new int[orderNumber]; // 3 -> 0,1,2
+		int divisor[] = new int[naturalNumber];
 		int arrayCount = 0; // 배열 번지수 number;
 
 		for (int i = 1; i <= naturalNumber; i++) {
 			if (naturalNumber % i == 0) {
 				divisor[arrayCount] = i;
 				arrayCount++;
-			} else if (divisor[orderNumber - 1] != 0) { // 2까지 차면 break;
+			} else if (divisor[orderNumber - 1] != 0) {
 				break;
 			}
 
