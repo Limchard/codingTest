@@ -1,6 +1,11 @@
 
 7
-java:S1220""Move this file to a named package.8œÚÃÜ1
-]	java:S125"<This block of commented-out lines of code should be removed.(Ë½Ş©ûÿÿÿÿ8¬ÚÃÜ1
-F	java:S106"+Replace this use of System.out by a logger.(‹â’88°ÚÃÜ1
-L	java:S106"+Replace this use of System.out by a logger.(—¦·ìúÿÿÿÿ8—šÄÜ1
+java:S1220""Move this file to a named package.8¸µŞÜ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8»µŞÜ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ë½Ş©ûÿÿÿÿ8¼µŞÜ1
+L	java:S106 "+Replace this use of System.out by a logger.(é€‡®ûÿÿÿÿ8¿µŞÜ1
+G	java:S106#"+Replace this use of System.out by a logger.(ÖìÚÕ8¿µŞÜ1
+G	java:S106%"+Replace this use of System.out by a logger.(îº”í8ÀµŞÜ1
+L	java:S106)"+Replace this use of System.out by a logger.(ñÎö²ıÿÿÿÿ8¢ªàÜ1
+L	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¢ªàÜ1
