@@ -12,7 +12,7 @@ public class A2903_retry {
 			number += (number - 1);
 
 		}
-		System.out.println((int)Math.pow(number, 2));
 
+		System.out.println((int)Math.pow(number, 2));
 	}
 }
