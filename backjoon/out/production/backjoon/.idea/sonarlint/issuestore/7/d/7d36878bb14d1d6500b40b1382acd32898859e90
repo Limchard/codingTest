@@ -1,9 +1,8 @@
 
 7
 java:S1220""Move this file to a named package.8Ü‰ã¨Þ1
-`
-java:S2583"DChange this condition so that it does not always evaluate to "false"(ŠÅ§l8æ‰ã¨Þ1
 X	java:S125	"<This block of commented-out lines of code should be removed.(ºç¸Ô8ë‰ã¨Þ1
 ]	java:S125"<This block of commented-out lines of code should be removed.(»½Î…ùÿÿÿÿ8í‰ã¨Þ1
-L	java:S106,"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8î‰ã¨Þ1
+X	java:S125"<This block of commented-out lines of code should be removed.(­­ì8ðÄæ¨Þ1
 L	java:S106-"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8î‰ã¨Þ1
+]	java:S125,"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8Èåë¨Þ1
