@@ -1,20 +1,20 @@
 
 m	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…Ï˜8¨­ß1
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡ôŞûÿÿÿÿ8‚¨­ß1
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…Ï˜8¢Æâ“ß1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡ôŞûÿÿÿÿ8¢Æâ“ß1
 n
-java:S1104"QMake prime a static final constant or non-public and provide accessors if needed.(©òƒ8‚¨­ß1
+java:S1104"QMake prime a static final constant or non-public and provide accessors if needed.(©òƒ8£Æâ“ß1
 H
-java:S1444"+Make this "public static prime" field final(©òƒ8ƒ¨­ß1
+java:S1444"+Make this "public static prime" field final(©òƒ8£Æâ“ß1
 7
-java:S1220""Move this file to a named package.8ƒ¨­ß1
+java:S1220""Move this file to a named package.8£Æâ“ß1
 G
-java:S1197"*Move the array designators [] to the type.(©òƒ8”¨­ß1
+java:S1197"*Move the array designators [] to the type.(©òƒ8®Æâ“ß1
 B
-java:S2386" Make member "prime" "protected".(İóá•øÿÿÿÿ8˜¨­ß1
+java:S2386" Make member "prime" "protected".(İóá•øÿÿÿÿ8±Æâ“ß1
 I
-java:S1125"'Remove the unnecessary boolean literal.(Ëıæƒüÿÿÿÿ8š¨­ß1
-L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8›¨­ß1
-G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8›¨­ß1
-G	java:S106 "+Replace this use of System.out by a logger.(Å¶áç8›¨­ß1
-i	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Û8œ¨­ß1
+java:S1125"'Remove the unnecessary boolean literal.(Ëıæƒüÿÿÿÿ8²Æâ“ß1
+L	java:S106"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8²Æâ“ß1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8²Æâ“ß1
+G	java:S106 "+Replace this use of System.out by a logger.(Å¶áç8²Æâ“ß1
+i	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Û8³Æâ“ß1
