@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8Ã¿×©Ò1
+Y
+java:S1854"7Remove this useless assignment to local variable "pay".(Îü³ıøÿÿÿÿ8È¿×©Ò1
+Z
+java:S1854"8Remove this useless assignment to local variable "time".(£ãÁ†ùÿÿÿÿ8È¿×©Ò1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8Ê¿×©Ò1
+L
+java:S1197"*Move the array designators [] to the type.(£ãÁ†ùÿÿÿÿ8Ë¿×©Ò1
+K
+java:S1481")Remove this unused "time" local variable.(£ãÁ†ùÿÿÿÿ8Ë¿×©Ò1
+L
+java:S1197"*Move the array designators [] to the type.(Îü³ıøÿÿÿÿ8Ë¿×©Ò1
+J
+java:S1481"(Remove this unused "pay" local variable.(Îü³ıøÿÿÿÿ8Ë¿×©Ò1
