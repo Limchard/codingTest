@@ -1,10 +1,10 @@
 
 L
-java:S10669"/Merge this if statement with the enclosing one.(‚®Äõ8§œüÛÌ2
-r
-java:S1066Z"/Merge this if statement with the enclosing one.(Â’ßˆ8èÎ°…Ë2J$7a8f7068-d9ff-47f8-8c50-5487e6971522
-G	java:S106"+Replace this use of System.out by a logger.(Ì¼ÀÒ8«œüÛÌ2
+java:S10669"/Merge this if statement with the enclosing one.(‚®Äõ8¡ÑÜÌ2
+L
+java:S1066Z"/Merge this if statement with the enclosing one.(Â’ßˆ8¢ÑÜÌ2
+G	java:S106"+Replace this use of System.out by a logger.(Ì¼ÀÒ8®ÑÜÌ2
 t
-java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğÿ¹öúÿÿÿÿ8µœüÛÌ2
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğÿ¹öúÿÿÿÿ8¯ÑÜÌ2
 o
-java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“ùĞ‚8¸œüÛÌ2
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“ùĞ‚8±ÑÜÌ2
