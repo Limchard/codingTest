@@ -1,28 +1,10 @@
 
-w
-java:S1066="/Merge this if statement with the enclosing one.(…½ï£ûÿÿÿÿ8èÎ°…Ë2J$92a987aa-48cb-4b1c-8c1c-58f8c832adad
+L
+java:S10669"/Merge this if statement with the enclosing one.(‚®Äõ8§œüÛÌ2
 r
-java:S1066Z"/Merge this if statement with the enclosing one.(ˆ‹ÈÖ8èÎ°…Ë2J$7a8f7068-d9ff-47f8-8c50-5487e6971522
-u
-java:S1135"2Complete the task associated to this TODO comment.(¡¼û¹8²Ä®”Ë2J$3727c4c1-5f02-4508-b21f-4f83fbf41361
+java:S1066Z"/Merge this if statement with the enclosing one.(Â’ßˆ8èÎ°…Ë2J$7a8f7068-d9ff-47f8-8c50-5487e6971522
+G	java:S106"+Replace this use of System.out by a logger.(Ì¼ÀÒ8«œüÛÌ2
 t
-java:S1135"2Complete the task associated to this TODO comment.(ƒ ’+8‹†±”Ë2J$40750d6e-3b6e-4afd-a113-2b707d5b2345
-z
-java:S1135"2Complete the task associated to this TODO comment.(·ÁşÉüÿÿÿÿ8œİ²”Ë2J$a90afcc1-6867-47d4-a6ba-db08487c0b2b
-u
-java:S1135"2Complete the task associated to this TODO comment.(ÃÕõì8¨¹”Ë2J$4551587f-fb6b-4199-96b2-cb4b34064f20
-
-java:S1854"9Remove this useless assignment to local variable "test2".(ö¾›ºüÿÿÿÿ8±…Ë2J$d2bfd126-8615-4450-b6e5-c5ddf668afc5
-€
-java:S1854"8Remove this useless assignment to local variable "test".(·“•üÿÿÿÿ8±…Ë2J$db981ae4-cac2-4a84-b73a-ea7d07889a37
-q
-java:S1481")Remove this unused "test" local variable.(·“•üÿÿÿÿ8±…Ë2J$80578d27-7421-4910-8901-dc606a0b0844
-r
-java:S1481"*Remove this unused "test2" local variable.(ö¾›ºüÿÿÿÿ8±…Ë2J$c2bbcd91-a4c4-4848-b2d5-a82ca1402af6
-r	java:S106"+Replace this use of System.out by a logger.(œ¡½•şÿÿÿÿ8îÎ°…Ë2J$e020af40-9e06-4cc1-b174-225199ea4b2c
-¡
-java:S3012%"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ˆä»ÿÿÿÿÿ8õŸ´…Ë2J$11a7226a-f653-47c6-a904-1eb8c01409f3
-š
-java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ö“©¨ıÿÿÿÿ8îÎ°…Ë2J$a7984cc9-038d-4bd5-8078-4333f6852648
-”
-java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğ´è,8ïÎ°…Ë2J$76a665e8-a46d-4183-acbc-000c88291f53
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğÿ¹öúÿÿÿÿ8µœüÛÌ2
+o
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“ùĞ‚8¸œüÛÌ2

@@ -9,10 +9,10 @@ public class A2605 {
         int[] array = new int[n];
 
         for (int i = 0; i < n; i++) {
-            array[i] = i+1;
+            array[i] = i + 1;
         }
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             int r = sc.nextInt();
             if (r == 0) {
                 continue;
@@ -25,7 +25,7 @@ public class A2605 {
         }
 
         for (int number : array) {
-            System.out.print(number +" ");
+            System.out.print(number + " ");
         }
     }
 }
