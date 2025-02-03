@@ -3,27 +3,35 @@ import java.util.Scanner;
 public class A1978 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int n, m;
-		n = sc.nextInt();
-		int count = 0;
+
+		int n = sc.nextInt(); // 갯수 입력
+		int primeNumberCount = 0;
 
 		for (int i = 0; i < n; i++) {
-			m = sc.nextInt();
-			if (m < 1) {
+			int a = sc.nextInt(); // 숫자 입력
+			if (a == 1) {
 				continue;
-			} else if (m == 2) {
-				count++;
-			} else if (m > 2) {
-				for (int j = 2; j < m; j++) {
-					if (m % j == 0) {
-						break;
-					} else if (m == (j + 1)) {
-						count++;
-					}
+			}
+			if (a == 2) {
+				primeNumberCount++;
+				continue;
+			}
+
+			int count = 2;
+			for (int j = 2; j < a; j++) // 소수 판별
+			{
+				if (a % j == 0) // 나눠지면
+				{
+					continue;
+				} else
+					count++;
+
+				if (a == count) {
+					primeNumberCount++;
 				}
 			}
 		}
-		System.out.println(count);
+		System.out.println(primeNumberCount);
 
 	}
 }
